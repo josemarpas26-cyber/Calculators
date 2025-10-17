@@ -1,1 +1,1 @@
-# Calculator projects collected from the Web
+# Calculators projects collected from the Web
